@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cimientos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d01dd17089be480bc395a62fe8cb0e0e927e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cimientos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cimientos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

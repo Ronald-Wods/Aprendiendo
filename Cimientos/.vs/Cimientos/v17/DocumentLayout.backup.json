@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9594FFD-3B5E-4F2F-8994-FE8B3B7CF1EE}|Cimientos\\Cimientos.csproj|c:\\users\\user\\desktop\\mala idea\\cimientos\\cimientos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9594FFD-3B5E-4F2F-8994-FE8B3B7CF1EE}|Cimientos\\Cimientos.csproj|c:\\users\\user\\desktop\\mala idea\\aprendiendo\\cimientos\\cimientos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9594FFD-3B5E-4F2F-8994-FE8B3B7CF1EE}|Cimientos\\Cimientos.csproj|solutionrelative:cimientos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Program.cs",
               "RelativeDocumentMoniker": "Cimientos\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Program.cs*",
-              "RelativeToolTip": "Cimientos\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Program.cs",
+              "RelativeToolTip": "Cimientos\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T14:56:50.774Z",
               "EditorCaption": ""

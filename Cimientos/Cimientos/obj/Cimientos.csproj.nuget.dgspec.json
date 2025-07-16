@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Cimientos.csproj": {}
+    "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Cimientos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Cimientos.csproj": {
+    "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Cimientos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Cimientos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Cimientos.csproj",
         "projectName": "Cimientos",
-        "projectPath": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\Cimientos.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\Cimientos.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Mala idea\\Cimientos\\Cimientos\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Mala idea\\Aprendiendo\\Cimientos\\Cimientos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
