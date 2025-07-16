@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\bin\Debug\net8.0\Cimientos.exe
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\bin\Debug\net8.0\Cimientos.deps.json
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\bin\Debug\net8.0\Cimientos.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\bin\Debug\net8.0\Cimientos.dll
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\bin\Debug\net8.0\Cimientos.pdb
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.dll
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\refint\Cimientos.dll
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.pdb
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\Cimientos.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Cimientos\Cimientos\obj\Debug\net8.0\ref\Cimientos.dll
