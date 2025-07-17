@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\bin\Debug\net8.0\10X10 MATRIX.exe
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\bin\Debug\net8.0\10X10 MATRIX.deps.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\bin\Debug\net8.0\10X10 MATRIX.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\bin\Debug\net8.0\10X10 MATRIX.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\bin\Debug\net8.0\10X10 MATRIX.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.sourcelink.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\refint\10X10 MATRIX.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\10X10 MATRIX.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\10X10 MATRIX\10X10 MATRIX\obj\Debug\net8.0\ref\10X10 MATRIX.dll
