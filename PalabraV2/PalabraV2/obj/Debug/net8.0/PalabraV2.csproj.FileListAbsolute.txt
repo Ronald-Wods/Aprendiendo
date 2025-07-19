@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.sourcelink.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\bin\Debug\net8.0\PalabraV2.exe
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\bin\Debug\net8.0\PalabraV2.deps.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\bin\Debug\net8.0\PalabraV2.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\bin\Debug\net8.0\PalabraV2.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\bin\Debug\net8.0\PalabraV2.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\refint\PalabraV2.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\PalabraV2.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\PalabraV2\PalabraV2\obj\Debug\net8.0\ref\PalabraV2.dll
