@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\bin\Debug\net8.0\Palabra.exe
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\bin\Debug\net8.0\Palabra.deps.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\bin\Debug\net8.0\Palabra.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\bin\Debug\net8.0\Palabra.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\bin\Debug\net8.0\Palabra.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.sourcelink.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\refint\Palabra.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\Palabra.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Palabra\Palabra\obj\Debug\net8.0\ref\Palabra.dll
