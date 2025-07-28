@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\bin\Debug\net8.0\CalcFunci.exe
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\bin\Debug\net8.0\CalcFunci.deps.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\bin\Debug\net8.0\CalcFunci.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\bin\Debug\net8.0\CalcFunci.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\bin\Debug\net8.0\CalcFunci.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.sourcelink.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\refint\CalcFunci.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\CalcFunci.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\CalcFunci\CalcFunci\obj\Debug\net8.0\ref\CalcFunci.dll
