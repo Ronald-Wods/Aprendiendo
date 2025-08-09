@@ -11,8 +11,9 @@ class Program
 
     private static void Principal()
     { 
-       int intentos = 0;
+       int intentos = 3;
        bool correcto = false;
+       bool incorrecto = false;
         Console.WriteLine("Adivina la palabra, tiene 4 letras");
 
         do
@@ -27,23 +28,29 @@ class Program
 
             else
             {
-                Console.WriteLine("\nNUH UH, inténtalo otra vez");
-                intentos++;
+                intentos--;
+                Console.WriteLine($"\nNUH UH, inténtalo otra vez, te quedan {intentos} intentos");
             }
 
-            if(intentos >= 1 && !correcto)
+            if (intentos == 0)
+            {
+                Console.WriteLine("Muy mal, la palabra era: Lago");
+                incorrecto = true;
+            }
+
+            if(intentos <= 2 && !correcto && !incorrecto)
             {
                 Pista1();
             }
 
-            if (intentos >= 2 && !correcto)
+            if (intentos == 1 && !correcto && !incorrecto)
             {
                 Pista2();
             }
 
 
 
-        } while (!correcto);
+        } while (!correcto && !incorrecto);
 
     }
 
