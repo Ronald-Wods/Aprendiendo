@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\bin\Debug\net8.0\Adivinanza.exe
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\bin\Debug\net8.0\Adivinanza.deps.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\bin\Debug\net8.0\Adivinanza.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\bin\Debug\net8.0\Adivinanza.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\bin\Debug\net8.0\Adivinanza.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.sourcelink.json
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\refint\Adivinanza.dll
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.pdb
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\Adivinanza.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Aprendiendo\Adivinanza\Adivinanza\obj\Debug\net8.0\ref\Adivinanza.dll
