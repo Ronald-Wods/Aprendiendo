@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.AssemblyInfo.cs
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\bin\Debug\net8.0\Ejercicio 32.exe
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\bin\Debug\net8.0\Ejercicio 32.deps.json
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\bin\Debug\net8.0\Ejercicio 32.runtimeconfig.json
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\bin\Debug\net8.0\Ejercicio 32.dll
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\bin\Debug\net8.0\Ejercicio 32.pdb
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.dll
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\refint\Ejercicio 32.dll
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.pdb
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\Ejercicio 32.genruntimeconfig.cache
+C:\Users\User\Desktop\Mala idea\Ejercicios\Ejercicio 32\Ejercicio 32\obj\Debug\net8.0\ref\Ejercicio 32.dll
